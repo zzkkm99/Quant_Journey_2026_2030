@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Generated research outputs
+**/results/
+
+# Python caches
+**/__pycache__/
+
 # C extensions
 *.so
 
